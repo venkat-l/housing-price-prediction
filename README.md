@@ -1,1 +1,3 @@
-# housing-price-prediction
+# Housing Price Prediction
+The prediction of housing pricess if a Regression project that uses the dataset from http://lib.stat.cmu.edu/datasets/. This is a complete project written in Python, using Pandas and sklearn.
+The goal of this project is to provide a path to rightly use the tools that Python provides to predict the prices of houses from a given dataset. Ultimately, we will strive to provide a model that most correctly predicts the Median value of owner-occupied homes (MEDV) given the other columns in the dataset.
